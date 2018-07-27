@@ -10,12 +10,7 @@
 	<properties>
 		<jackson.version>2.5.0</jackson.version>
 	</properties>
-	<repositories>
-		<repository>
-			<id>netease_repo</id>
-			<url>http://mvn.ms.netease.com/nexus/content/groups/public/</url>
-		</repository>
-	</repositories>
+
 
 	<dependencies>
 		<!-- JSON begin -->
